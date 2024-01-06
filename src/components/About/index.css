@@ -1,0 +1,59 @@
+/* About.css */
+.about-container {
+  background-color: #f9f9f9;
+  padding: 40px 0;
+  padding: 30px;
+}
+.about {
+  margin-bottom: 20px;
+}
+.about-p {
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.about-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h2 {
+  color: #007bff;
+}
+
+.highlight {
+  color: #28a745;
+  font-weight: bold;
+}
+
+.section {
+  margin-bottom: 40px;
+}
+
+h3 {
+  color: #555;
+}
+
+p {
+  line-height: 1.6;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 8px;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+.about-h3 {
+  margin-bottom: 20px;
+}

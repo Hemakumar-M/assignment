@@ -1,0 +1,25 @@
+.project-container {
+  min-height: 100vh;
+  width: 100vw;
+  display: flex;
+  padding-top: 30px;
+  flex-direction: column;
+  padding: 30px;
+}
+.project-heading {
+  text-align: center;
+}
+.allItems {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.back-btn {
+  background-color: transparent;
+  background: none;
+  border-radius: 50px;
+  border: none;
+  padding: 0px;
+
+  cursor: pointer;
+}
